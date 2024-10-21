@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEB_253505_Yeudakavets.API.props" />
+</Project>

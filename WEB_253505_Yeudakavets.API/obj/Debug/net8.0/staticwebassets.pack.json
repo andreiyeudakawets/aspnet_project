@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\default-profile-picture.png",
+      "PackagePath": "staticwebassets\\Images\\default-profile-picture.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\jacket.jpg",
+      "PackagePath": "staticwebassets\\Images\\jacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\nike.jpg",
+      "PackagePath": "staticwebassets\\Images\\nike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\pants.jpg",
+      "PackagePath": "staticwebassets\\Images\\pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\shirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\socks.jpg",
+      "PackagePath": "staticwebassets\\Images\\socks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\wwwroot\\Images\\timbers.jpg",
+      "PackagePath": "staticwebassets\\Images\\timbers.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB_253505_Yeudakavets.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WEB_253505_Yeudakavets.API.props",
+      "PackagePath": "build\\WEB_253505_Yeudakavets.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WEB_253505_Yeudakavets.API.props",
+      "PackagePath": "buildMultiTargeting\\WEB_253505_Yeudakavets.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WEB_253505_Yeudakavets.API.props",
+      "PackagePath": "buildTransitive\\WEB_253505_Yeudakavets.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

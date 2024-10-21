@@ -1,0 +1,699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\apiservices\\apiclothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\apiservices\\apiclothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\controllers\\clothingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\controllers\\clothingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\services\\productservice\\clothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\services\\productservice\\clothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|solutionrelative:web_253505_yeudakavets.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\apiservices\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\apiservices\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\services\\productservice\\iclothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\services\\productservice\\iclothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.api\\migrations\\20241021131614_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF21FE9-042D-4AE4-8611-270296F0973F}|WEB_253505_Yeudakavets.API\\WEB_253505_Yeudakavets.API.csproj|solutionrelative:web_253505_yeudakavets.api\\migrations\\20241021131614_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\services\\productservice\\memoryclothingservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\services\\productservice\\memoryclothingservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.domain\\entities\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|solutionrelative:web_253505_yeudakavets.domain\\entities\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|solutionrelative:web_253505_yeudakavets.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\services\\productservice\\iclothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\services\\productservice\\iclothingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F7808-8E09-41BA-A89F-F8A655241FAE}|WEB_253505_Yeudakavets.Domain\\WEB_253505_Yeudakavets.Domain.csproj|solutionrelative:web_253505_yeudakavets.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\viewcomponents\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\viewcomponents\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|c:\\users\\andrei\\source\\web_253505_yeudakavets\\web_253505_yeudakavets.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C3F9F-8437-492E-AE7A-2D6976730F53}|WEB_253505_Yeudakavets.UI\\WEB_253505_Yeudakavets.UI.csproj|solutionrelative:web_253505_yeudakavets.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UriData.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\UriData.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\UriData.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\UriData.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\UriData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:34:51.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClothingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Controllers\\ClothingsController.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Controllers\\ClothingsController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Controllers\\ClothingsController.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Controllers\\ClothingsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:25:06.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\ApiServices\\ApiCategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\ApiServices\\ApiCategoryService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\ApiServices\\ApiCategoryService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\ApiServices\\ApiCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:55:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:23:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:17:04.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Program.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:30:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiClothingService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\ApiServices\\ApiClothingService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\ApiServices\\ApiClothingService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\ApiServices\\ApiClothingService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\ApiServices\\ApiClothingService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:56:37.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClothingService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\ProductService\\ClothingService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Services\\ProductService\\ClothingService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\ProductService\\ClothingService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Services\\ProductService\\ClothingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:43:46.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:11:55.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Models\\ResponseData.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Models\\ResponseData.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.Domain\\Models\\ResponseData.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:39:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\appsettings.json",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T18:58:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:02:12.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Program.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:50:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:32:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Services\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:40:04.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClothingService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\ProductService\\IClothingService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Services\\ProductService\\IClothingService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\ProductService\\IClothingService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Services\\ProductService\\IClothingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:43:06.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:44:00.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\libman.json",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\libman.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\libman.json",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T16:25:52.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T18:59:44.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:01:42.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\appsettings.json",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T13:03:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\WeatherForecast.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:40:49.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MemoryCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:18:18.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241021131614_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Migrations\\20241021131614_InitialMigration.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.API\\Migrations\\20241021131614_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.API\\Migrations\\20241021131614_InitialMigration.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.API\\Migrations\\20241021131614_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:16:14.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemoryClothingServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Services\\ProductService\\MemoryClothingServicecs.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Services\\ProductService\\MemoryClothingServicecs.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Services\\ProductService\\MemoryClothingServicecs.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Services\\ProductService\\MemoryClothingServicecs.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwE4AAAApAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:32:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Entities\\Clothing.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.Domain\\Entities\\Clothing.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Entities\\Clothing.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.Domain\\Entities\\Clothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:20:16.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwDgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:29:40.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductListModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Models\\ProductListModel.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.Domain\\Models\\ProductListModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Models\\ProductListModel.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.Domain\\Models\\ProductListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:40:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T11:40:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IClothingService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Services\\ProductService\\IClothingService.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Services\\ProductService\\IClothingService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Services\\ProductService\\IClothingService.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Services\\ProductService\\IClothingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:25:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:30:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:16:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T15:15:16.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ListDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Models\\ListDemo.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Models\\ListDemo.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Models\\ListDemo.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Models\\ListDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:28:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:51:49.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T19:03:02.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\ViewComponents\\Cart.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\ViewComponents\\Cart.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\ViewComponents\\Cart.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\ViewComponents\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:20:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Models\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Models\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Models\\IndexViewModel.cs",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Models\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:29:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:15:50.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T11:49:01.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WEB_253505_Yeudakavets.UI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Andrei\\source\\WEB_253505_Yeudakavets\\WEB_253505_Yeudakavets.UI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WEB_253505_Yeudakavets.UI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T18:58:03.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
